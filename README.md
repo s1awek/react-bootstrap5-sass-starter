@@ -1,10 +1,10 @@
 # Getting Started with Create React App and React Bootstrap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [React Bootstrap](https://react-bootstrap.netlify.app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [React Bootstrap](https://react-bootstrap.github.io/).
 
 ## React Bootstrap
 
-You can read more about React Bootstrap here: [https://react-bootstrap.netlify.app/getting-started/introduction](https://react-bootstrap.netlify.app/getting-started/introduction)
+You can read more about React Bootstrap here: [hhttps://react-bootstrap.github.io/](hhttps://react-bootstrap.github.io/)
 
 To install all dependencies run:
 
