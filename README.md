@@ -1,4 +1,4 @@
-# Getting Started with Create React App with React Bootstrap
+# Getting Started with Create React App and React Bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [React Bootstrap](https://react-bootstrap.netlify.app).
 
